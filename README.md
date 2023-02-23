@@ -19,7 +19,9 @@ Here is where I was practicing three years ago when I Started : https://tryhackm
 + They Also have learning modules, including and not limited to :
 
 Networking : https://tryhackme.com/module/network-fundamentals
+
 Linux : https://tryhackme.com/module/linux-fundamentals
+
 Understanding The Web Dynamics : https://tryhackme.com/module/how-the-web-works
 
 1 - Learning Linux basics : 
